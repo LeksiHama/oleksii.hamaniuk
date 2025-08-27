@@ -1,0 +1,35 @@
+/* --- Sticky Navbar --- */
+.distill-site-nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: rgba(10, 45, 90, 0.85); /* semi-transparent */
+  border-bottom: 1px solid #ddd;
+  backdrop-filter: blur(5px); /* optional: nice blur effect */
+}
+
+
+/* Push the main content down so it doesn’t hide under the navbar */
+.distill-site-body {
+  padding-top: 70px; /* instead of .distill-site-header */
+}
+
+
+/* Target the header container */
+.postcards-header {
+  height: 400px;            /* desired height */
+  overflow: hidden;         /* crop anything overflowing */
+  display: flex;            /* center the image */
+  justify-content: center;
+  align-items: center;
+}
+
+/* Target the image inside the header */
+.postcards-header img {
+  width: auto;              /* keep aspect ratio */
+  max-height: 100%;         /* fill container height */
+  display: block;
+}
+
+

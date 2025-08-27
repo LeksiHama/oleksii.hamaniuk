@@ -1,0 +1,22 @@
+name: "."
+title: "Oleksii Hamaniuk"
+description: |
+  Oleksii Hamaniuk
+output_dir: "docs"
+navbar:
+  right:
+    - text: "About"
+      href: index.html#about
+    - text: "Job Market Paper"
+      href: index.html#job-market-paper
+    - text: "Work in Progress"
+      href: index.html#work-in-progress
+    - text: "Teaching"
+      href: index.html#teaching
+    - text: "Policy Research"
+      href: index.html#policy-research
+    - text: "In Media"
+      href: index.html#in-media
+
+      
+output: distill::distill_article
