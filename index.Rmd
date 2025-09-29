@@ -3,7 +3,7 @@ title: "Oleksii Hamaniuk"
 image: "website_photo.jpg"
 links:
   - label: CV
-    url: ""
+    url: "https://drive.google.com/file/d/1cimMO6YXuxViZIqH3kdy7B_CxH67I4Yx/view?usp=sharing"
   - label: Email
     url: "mailto:ohamaniuk@uni-bonn.de"
   - label: LinkedIn
@@ -25,9 +25,9 @@ css: styles.css
  
 ## About 
 
-Welcome! I am an academic Job Market Candidate 2025-2026. I am doing my PhD at the University of Bonn.
+Welcome! I am a 6th year PhD candidate in Economics at the University of Bonn. I am on the academic job market 2025–2026.
 
-My research interests are Applied Microeconomics, Public Economics, Urban Economics and Energy Economics.
+My research interests are in applied microeconomics, public economics, urban economics, and energy economics.
 
 You can contact me via email **<u>ohamaniuk@uni-bonn.de</u>**.
 
@@ -59,16 +59,18 @@ TBA
 
 ---
 
-**When Mediation Matters: Cooperation in Experimental Militarisation Games** | with Ryan Swan  
+#**When Mediation Matters: Cooperation in Experimental Militarisation Games** | with Ryan Swan  
 
-<details>
-  <summary><em>Abstract</em></summary>
-This paper studies how mediation affects people’s decisions towards cooperation in militarisation games. Specifically, we examine how the presence and nature of a mediator influence the likelihood of cooperative outcomes. To do this, we run the experiment with three different settings. We compare the theoretical predictions derived from game-theoretic equilibrium strategies with the actual behaviour observed in our experiments. Our findings reveal that the presence of a mediator—even one who does not alter the equilibrium structure of the game—significantly increases the rate of cooperation among participants.  At the same time, we do not find strong evidence that participants have a clear preference between an uninformed mediator and one who is informed about their private types. 
-</details> 
+#<details>
+#  <summary><em>Abstract</em></summary>
+#This paper studies how mediation affects people’s decisions towards cooperation in militarisation games. Specifically, we examine how the presence and nature of a mediator influence the likelihood of cooperative outcomes. To do this, we run the experiment with three different settings. We compare the theoretical predictions derived from game-theoretic equilibrium strategies with the actual behaviour observed in our experiments. Our findings reveal that the presence of a mediator—even one who does not alter the equilibrium structure of the game—significantly increases the rate of cooperation among participants.  At the same time, we do not find strong evidence that participants have a clear preference between an uninformed mediator and one who is informed about their private types. 
+#</details> 
 
 ---
 
 ## Teaching
+2025-2026 Research Module (Master) | University of Bonn
+
 2025 Current Topics in Economics (Bachelor) | University of Bonn
 
 2024-2025 Research Module (Group Mentor, Master) | University of Bonn
@@ -81,6 +83,7 @@ This paper studies how mediation affects people’s decisions towards cooperatio
 - [Ukraine’s integration into the EU’s digital single market: Potential Economic Benefits](https://ucep.org.ua/wp-content/uploads/2023/01/ukraines-integration-into-the-eus-digital-single-market-potential-economic-benefits.pdf) | with Pavlo Iavorskyi, Svitlana Taran, Oleksandr Shepotylo | Kyiv School of Economics, 2020
 - [How to make road maintenance more cost-efficient? Lessons from Slovakia](https://ces.org.ua/en/how-to-make-road-maintenance-more-cost-efficient-lessons-from-slovakia/) | with Oksana Zatvornytska | Centre for Economic Strategy, 2019
 - [Subvention for socio-economic development: how to stop public funds allocation according to political preferences](https://ces.org.ua/en/subvention-for-socio-economic-development-how-to-stop-public-funds-allocation-according-to-political-preferences/) | Centre for Economic Strategy, 2018
+- [Are the state owned enterprises less profitable than the private ones?](https://ces.org.ua/en/are-the-state-owned-enterprises-less-profitable-than-the-private-ones/) | with Dmytro Yablonovskyy | Centre for Economic Strategy, 2018
 
 
 ## In Media (selected) <a id="in-media"></a>
