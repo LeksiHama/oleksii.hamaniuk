@@ -37,7 +37,14 @@ You can contact me via email **<u>ohamaniuk@uni-bonn.de</u>**.
 
 ## Job Market Paper 
 
-TBA
+Why Decentralised Governance Works: Evidence from Heating Consumption in Ukrainian Buildings
+
+<details>
+  <summary><em>Abstract</em></summary>
+  This paper empirically investigates whether decentralised institutions are more efficient than centralised ones in governing the commons, using a database of heating consumption from 8,839 multi-apartment buildings in Kyiv. The empirical analysis reveals that buildings that switch to homeowner associations (HOAs) reduce their heating consumption compared to those that remain externally governed by municipal or private companies. The first channel for this reduction operates through mitigating the principal-agent problem, allowing HOAs to regulate heating more flexibly during warmer months. The second channel involves investments made through co-financing programmes in which HOAs participate. Such investments significantly reduce heating consumption, unlike unconditional investments financed from the city budget. The estimation results align with Elinor Ostrom’s theory of governing the commons, which suggests that local institutions must solve the tragedy of the commons. The paper also explores the reasons why only 18% of buildings transitioned to a local institution despite its higher efficiency. 
+</details>
+
+---
 
 ## Work in Progress 
  **Go local - get tax compliance and local growth?** | with Benedikt Herrmann, Felix Rösel | Draft available upon request  
@@ -79,24 +86,37 @@ TBA
 
 ## Policy Research (selected) <a id="policy-research"></a>
 
-- [Trade Potential Assessment of Value Chains in The Eastern Ukrainian Economy](https://kse.ua/wp-content/uploads/2020/12/Trade-Potential-Assessment-of-Selected-Value-Chains-in-The-Eastern-Ukrainian-Economy-2020-09-09.pdf) | with Pavlo Iavorskyi | Kyiv School of Economics, 2020
-- [Ukraine’s integration into the EU’s digital single market: Potential Economic Benefits](https://ucep.org.ua/wp-content/uploads/2023/01/ukraines-integration-into-the-eus-digital-single-market-potential-economic-benefits.pdf) | with Pavlo Iavorskyi, Svitlana Taran, Oleksandr Shepotylo | Kyiv School of Economics, 2020
-- [How to make road maintenance more cost-efficient? Lessons from Slovakia](https://ces.org.ua/en/how-to-make-road-maintenance-more-cost-efficient-lessons-from-slovakia/) | with Oksana Zatvornytska | Centre for Economic Strategy, 2019
-- [Subvention for socio-economic development: how to stop public funds allocation according to political preferences](https://ces.org.ua/en/subvention-for-socio-economic-development-how-to-stop-public-funds-allocation-according-to-political-preferences/) | Centre for Economic Strategy, 2018
-- [Are the state owned enterprises less profitable than the private ones?](https://ces.org.ua/en/are-the-state-owned-enterprises-less-profitable-than-the-private-ones/) | with Dmytro Yablonovskyy | Centre for Economic Strategy, 2018
+[Trade Potential Assessment of Value Chains in The Eastern Ukrainian Economy](https://kse.ua/wp-content/uploads/2020/12/Trade-Potential-Assessment-of-Selected-Value-Chains-in-The-Eastern-Ukrainian-Economy-2020-09-09.pdf) | with Pavlo Iavorskyi | Kyiv School of Economics, 2020
+
+[Ukraine’s integration into the EU’s digital single market: Potential Economic Benefits](https://ucep.org.ua/wp-content/uploads/2023/01/ukraines-integration-into-the-eus-digital-single-market-potential-economic-benefits.pdf) | with Pavlo Iavorskyi, Svitlana Taran, Oleksandr Shepotylo | Kyiv School of Economics, 2020
+
+[How to make road maintenance more cost-efficient? Lessons from Slovakia](https://ces.org.ua/en/how-to-make-road-maintenance-more-cost-efficient-lessons-from-slovakia/) | with Oksana Zatvornytska | Centre for Economic Strategy, 2019
+
+[Subvention for socio-economic development: how to stop public funds allocation according to political preferences](https://ces.org.ua/en/subvention-for-socio-economic-development-how-to-stop-public-funds-allocation-according-to-political-preferences/) | Centre for Economic Strategy, 2018
+
+[Are the state owned enterprises less profitable than the private ones?](https://ces.org.ua/en/are-the-state-owned-enterprises-less-profitable-than-the-private-ones/) | with Dmytro Yablonovskyy | Centre for Economic Strategy, 2018
 
 
 ## In Media (selected) <a id="in-media"></a>
 
-- [How fast do investments in energy efficiency programmes pay off?](https://epravda.com.ua/columns/2021/10/13/678718/), Epravda, 2021
-- [The heating season is over. But it will start again in six months. How to reduce spendings?](https://biz.liga.net/keysy/all/opinion/otopitelnyy-sezon-zakonchilsya-no-cherez-polgoda-opyat-nachnetsya-kak-snizit-rashody), Liga.net, 2021
-- [Interview on the decentralisation reform and regional funds allocation in Ukraine](https://www.youtube.com/watch?v=UnT2pqGtEcw&ab_channel=Espreso.TV), Espreso.tv, 2020
-- [Election is coming. Is it possible to promise without populism that heating costs will decrease?](https://biz.nv.ua/ukr/experts/yak-platiti-menshe-za-opalennya-chi-mozhna-realno-zniziti-tarifi-novini-ukrajini-50113922.html), NV, 2020
-- [Regional development. How are the public funds allocated?](https://biz.nv.ua/ukr/experts/yak-groshi-rozpodilyayutsya-po-regionah-politichniy-vibir-sluga-narodu-novini-ukrajini-50104629.html), NV, 2020
-- [Size Matters: Incomes of Smaller Communities Increase More Than of Large Ones](https://voxukraine.org/en/size-matters-incomes-of-smaller-hromadas-communities-increase-more-than-of-large-ones), VoxUkraine, 2020
-- [How do local communities tax individual entrepreneurs?](https://epravda.com.ua/columns/2020/03/25/657944/), Epravda, 2020
-- [Podcast on the decentralisation reform in Ukraine](https://hromadske.radio/podcasts/shcho-z-ekonomikoiu/yak-pidpryiemtsi-reahuiut-na-reformu-detsentralizatsii-poiasniuie-doslidnyk-kyivs-koi-shkoly-ekonomiky), Hromadske Radio, 2020
-- [Interview on the road expenditures in Ukraine](https://hromadske.radio/publications/tretyna-kredytiv-na-avtoshlyahy-vzyatyh-ukrayinoyu-za-10-rokiv-ne-vykorystani-ekonomist), Hromadske Radio, 2019
-- ["Budget for the country development": how much money will the regions get?](https://epravda.com.ua/columns/2018/11/14/642631/), Epravda, 2018
+[How fast do investments in energy efficiency programmes pay off?](https://epravda.com.ua/columns/2021/10/13/678718/), Epravda, 2021
+
+[The heating season is over. But it will start again in six months. How to reduce spendings?](https://biz.liga.net/keysy/all/opinion/otopitelnyy-sezon-zakonchilsya-no-cherez-polgoda-opyat-nachnetsya-kak-snizit-rashody), Liga.net, 2021
+
+[Interview on the decentralisation reform and regional funds allocation in Ukraine](https://www.youtube.com/watch?v=UnT2pqGtEcw&ab_channel=Espreso.TV), Espreso.tv, 2020
+
+[Election is coming. Is it possible to promise without populism that heating costs will decrease?](https://biz.nv.ua/ukr/experts/yak-platiti-menshe-za-opalennya-chi-mozhna-realno-zniziti-tarifi-novini-ukrajini-50113922.html), NV, 2020
+
+[Regional development. How are the public funds allocated?](https://biz.nv.ua/ukr/experts/yak-groshi-rozpodilyayutsya-po-regionah-politichniy-vibir-sluga-narodu-novini-ukrajini-50104629.html), NV, 2020
+
+[Size Matters: Incomes of Smaller Communities Increase More Than of Large Ones](https://voxukraine.org/en/size-matters-incomes-of-smaller-hromadas-communities-increase-more-than-of-large-ones), VoxUkraine, 2020
+
+[How do local communities tax individual entrepreneurs?](https://epravda.com.ua/columns/2020/03/25/657944/), Epravda, 2020
+
+[Podcast on the decentralisation reform in Ukraine](https://hromadske.radio/podcasts/shcho-z-ekonomikoiu/yak-pidpryiemtsi-reahuiut-na-reformu-detsentralizatsii-poiasniuie-doslidnyk-kyivs-koi-shkoly-ekonomiky), Hromadske Radio, 2020
+
+[Interview on the road expenditures in Ukraine](https://hromadske.radio/publications/tretyna-kredytiv-na-avtoshlyahy-vzyatyh-ukrayinoyu-za-10-rokiv-ne-vykorystani-ekonomist), Hromadske Radio, 2019
+
+["Budget for the country development": how much money will the regions get?](https://epravda.com.ua/columns/2018/11/14/642631/), Epravda, 2018
 
 
