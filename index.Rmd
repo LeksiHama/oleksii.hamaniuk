@@ -40,11 +40,11 @@ You can contact me via email **<u>ohamaniuk@uni-bonn.de</u>**.
 TBA
 
 ## Work in Progress 
- **Go local - improve tax compliance?** | with Benedikt Herrmann, Felix Rösel | Draft available upon request  
+ **Go local - get tax compliance and local growth?** | with Benedikt Herrmann, Felix Rösel | Draft available upon request  
 
 <details>
   <summary><em>Abstract</em></summary>
-  This study explores the impact of fiscal structure on the tax compliance and local economic growth, focusing on the unique context in Ukraine between 2016 and 2020, during which two distinct fiscal systems operated simultaneously due to the decentralisation reform. Our analysis indicates that transitioning to a fiscal system where municipalities receive a substantially higher share of personal income tax (PIT) results in increased PIT payments even controlling for the night-light index, a well known economic activity proxy. The night-light index, at the same time, was positively affected by the decentralisation as well. We attribute these processes to several factors. Firstly, the new fiscal system stimulates economic growth, leading to an expansion of the tax base as local governments are incentivised to foster local economic development. Secondly, tax compliance increases within the new framework, aligning with findings from experimental literature on contributions to local versus global public goods. Taxpayers' willingness to pay taxes increases when taxes are allocated to municipal budgets, making public good provisions more tangible to taxpayers. 
+  This paper analyses the local economic and fiscal returns of decentralisation. We analyse the staggered decentralisation of powers and tax revenues to municipal governments in Ukraine between 2015 and 2020. Most importantly, decentralised authorities retain 60% of the personal income tax collected within their jurisdiction. We collect expert‐survey data on regional government support as a plausibly exogenous determinant of selection into decentralisation and use difference‐in‐differences and event‐study estimations. Our results show that decentralisation stimulates economic growth and generates additional tax revenues for local governments. Moreover, the elasticity of tax revenues rises significantly after decentralisation, suggesting higher levels of tax compliance when taxes are used locally. These findings underscore the importance of embedding incentives within systems of fiscal federalism. 
 </details>
 
 <!-- --- -->
@@ -57,14 +57,14 @@ TBA
 <!--   preferences for democracy. Using historical data from ..., we find that ... -->
 <!-- </details> -->
 
----
+<!--
 
 #**When Mediation Matters: Cooperation in Experimental Militarisation Games** | with Ryan Swan  
 
 #<details>
-#  <summary><em>Abstract</em></summary>
+  <summary><em>Abstract</em></summary>
 #This paper studies how mediation affects people’s decisions towards cooperation in militarisation games. Specifically, we examine how the presence and nature of a mediator influence the likelihood of cooperative outcomes. To do this, we run the experiment with three different settings. We compare the theoretical predictions derived from game-theoretic equilibrium strategies with the actual behaviour observed in our experiments. Our findings reveal that the presence of a mediator—even one who does not alter the equilibrium structure of the game—significantly increases the rate of cooperation among participants.  At the same time, we do not find strong evidence that participants have a clear preference between an uninformed mediator and one who is informed about their private types. 
-#</details> 
+#</details> -->
 
 ---
 
