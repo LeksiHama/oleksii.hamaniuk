@@ -3,7 +3,7 @@ title: "Oleksii Hamaniuk"
 image: "website_photo.jpg"
 links:
   - label: CV
-    url: "https://drive.google.com/file/d/1cimMO6YXuxViZIqH3kdy7B_CxH67I4Yx/view?usp=sharing"
+    url: "https://drive.google.com/file/d/1WXzNGv2iPGbPO3xrxln5dNAywUXSaxl2/view?usp=sharing"
   - label: Email
     url: "mailto:ohamaniuk@uni-bonn.de"
   - label: LinkedIn
@@ -33,7 +33,7 @@ You can contact me via email **<u>ohamaniuk@uni-bonn.de</u>**.
 
 ## CV 
 
-[My CV](https://drive.google.com/file/d/1cimMO6YXuxViZIqH3kdy7B_CxH67I4Yx/view?usp=sharing)
+[My CV](https://drive.google.com/file/d/1WXzNGv2iPGbPO3xrxln5dNAywUXSaxl2/view?usp=sharing)
 
 ## Job Market Paper 
 
@@ -89,6 +89,8 @@ Why Decentralised Governance Works: Evidence from Heating Consumption in Ukraini
 [Trade Potential Assessment of Value Chains in The Eastern Ukrainian Economy](https://kse.ua/wp-content/uploads/2020/12/Trade-Potential-Assessment-of-Selected-Value-Chains-in-The-Eastern-Ukrainian-Economy-2020-09-09.pdf) | with Pavlo Iavorskyi | Kyiv School of Economics, 2020
 
 [Ukraine’s integration into the EU’s digital single market: Potential Economic Benefits](https://ucep.org.ua/wp-content/uploads/2023/01/ukraines-integration-into-the-eus-digital-single-market-potential-economic-benefits.pdf) | with Pavlo Iavorskyi, Svitlana Taran, Oleksandr Shepotylo | Kyiv School of Economics, 2020
+
+[Canada-Ukraine Free Trade Agreement: Patterns and Tendencies](https://kse.ua/wp-content/uploads/2020/06/KSE-Trade-CUFTA-Patterns-and-Tendencies-REPORT.pdf) | with Pavlo Iavorskyi , Maryna Khorunzha, Olga Nikolaieva, Svitlana Taran | Kyiv School of Economics, 2020
 
 [How to make road maintenance more cost-efficient? Lessons from Slovakia](https://ces.org.ua/en/how-to-make-road-maintenance-more-cost-efficient-lessons-from-slovakia/) | with Oksana Zatvornytska | Centre for Economic Strategy, 2019
 
