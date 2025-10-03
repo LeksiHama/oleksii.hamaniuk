@@ -36,10 +36,3 @@
   border: none; /* no cell borders */ 
   text-align: left; /* align text left */ } 
   
-/* Ensure content scales on mobile */ 
-.distill-site-body { 
-  width: 100%; 
-  max-width: 100%; 
-  overflow-x: hidden; /* prevent horizontal scrolling */ 
-  padding: 1rem; /* optional: space around content */ 
-  box-sizing: border-box; }
