@@ -12,11 +12,7 @@
 
 /* Push the main content down so it doesn’t hide under the navbar */
 .distill-site-body {
-  padding: 70px 1rem 1rem 1rem; /* top padding for navbar, 1rem sides/bottom */
-  width: 100%;
-  max-width: 100%;
-  overflow-x: hidden;
-  box-sizing: border-box;
+  padding-top: 70px; /* instead of .distill-site-header */
 }
 
 
@@ -37,18 +33,35 @@
 }
 
 .references-table {
-  border-collapse: collapse;
-  width: 100%;      /* full width */
-  table-layout: auto;
-  font-family: inherit;
-  font-size: 1rem;
+  border-collapse: collapse;   /* remove borders */
+  width: auto;                 /* shrink to fit content */
+  font-family: inherit;        /* use the same font as the site */
+  font-size: 1rem;             /* same size as body text */
   margin-top: 0.5em;
 }
+
 .references-table td {
-  padding: 0.25rem 1rem 0.25rem 0;
-  border: none;
-  text-align: left;
-  word-wrap: break-word;
+  padding: 0.25rem 1rem 0.25rem 0; /* compact spacing with some column gap */
+  border: none;                    /* no cell borders */
+  text-align: left;                /* align text left */
+}
+
+/* Ensure content scales on mobile */
+.distill-site-body {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden; /* prevent horizontal scrolling */
+  padding: 1rem;      /* optional: space around content */
+  box-sizing: border-box;
+}
+
+.references-table {
+  width: 100%;           /* full width */
+  table-layout: auto;    /* allow columns to shrink */
+}
+
+.references-table td {
+  word-wrap: break-word; /* wrap long text */
   overflow-wrap: break-word;
 }
 
@@ -58,9 +71,5 @@ img {
   height: auto;
 }
 
-
-body {
-  overflow-x: hidden;
-}
-
+@media (max-width: 768px) { .distill-site-nav { width: 100%; font-size: 0.9rem; padding: 0.5rem; } }
 
