@@ -31,18 +31,49 @@ My research interests are in applied microeconomics, public economics, urban eco
 
 You can contact me via email **<u>ohamaniuk@uni-bonn.de</u>**.
 
+---
+
 ## CV 
 
 [My CV](https://drive.google.com/file/d/1WXzNGv2iPGbPO3xrxln5dNAywUXSaxl2/view?usp=sharing)
 
+---
+
 ## Job Market Paper 
 
-Why Decentralised Governance Works: Evidence from Heating Consumption in Ukrainian Buildings
+**Why Decentralised Governance Works: Evidence from Heating Consumption in Ukrainian Buildings**
 
 <details>
   <summary><em>Abstract</em></summary>
   This paper empirically investigates whether decentralised institutions are more efficient than centralised ones in governing the commons, using a database of heating consumption from 8,839 multi-apartment buildings in Kyiv. The empirical analysis reveals that buildings that switch to homeowner associations (HOAs) reduce their heating consumption compared to those that remain externally governed by municipal or private companies. The first channel for this reduction operates through mitigating the principal-agent problem, allowing HOAs to regulate heating more flexibly during warmer months. The second channel involves investments made through co-financing programmes in which HOAs participate. Such investments significantly reduce heating consumption, unlike unconditional investments financed from the city budget. The estimation results align with Elinor Ostrom’s theory of governing the commons, which suggests that local institutions must solve the tragedy of the commons. The paper also explores the reasons why only 18% of buildings transitioned to a local institution despite its higher efficiency. 
 </details>
+
+---
+
+## References
+
+
+
+
+<table class="references-table">
+  <tr>
+    <td><strong>Prof. Dr. Thomas Dohmen</strong></td>
+    <td>University of Bonn</td>
+    <td>tdohmen@uni-bonn.de</td>
+  </tr>
+  <tr>
+    <td><strong>Prof. Dr. Sebastian Kube</strong></td>
+    <td>University of Bonn</td>
+    <td>kube@uni-bonn.de</td>
+  </tr>
+  <tr>
+    <td><strong>Prof. Dr. Clara Brandi</strong></td>
+    <td>University of Bonn</td>
+    <td>Clara.Brandi@idos-research.de</td>
+  </tr>
+</table>
+
+
 
 ---
 
@@ -84,6 +115,8 @@ Why Decentralised Governance Works: Evidence from Heating Consumption in Ukraini
 
 2017-2018 Econometrics (Teaching Assistant, Master) | Kyiv School of Economics
 
+---
+
 ## Policy Research (selected) <a id="policy-research"></a>
 
 [Trade Potential Assessment of Value Chains in The Eastern Ukrainian Economy](https://kse.ua/wp-content/uploads/2020/12/Trade-Potential-Assessment-of-Selected-Value-Chains-in-The-Eastern-Ukrainian-Economy-2020-09-09.pdf) | with Pavlo Iavorskyi | Kyiv School of Economics, 2020
@@ -98,6 +131,7 @@ Why Decentralised Governance Works: Evidence from Heating Consumption in Ukraini
 
 [Are the state owned enterprises less profitable than the private ones?](https://ces.org.ua/en/are-the-state-owned-enterprises-less-profitable-than-the-private-ones/) | with Dmytro Yablonovskyy | Centre for Economic Strategy, 2018
 
+---
 
 ## In Media (selected) <a id="in-media"></a>
 
