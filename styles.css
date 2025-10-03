@@ -12,7 +12,11 @@
 
 /* Push the main content down so it doesn’t hide under the navbar */
 .distill-site-body {
-  padding-top: 70px; /* instead of .distill-site-header */
+  padding: 70px 1rem 1rem 1rem; /* top padding for navbar, 1rem sides/bottom */
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  box-sizing: border-box;
 }
 
 
@@ -33,16 +37,30 @@
 }
 
 .references-table {
-  border-collapse: collapse;   /* remove borders */
-  width: auto;                 /* shrink to fit content */
-  font-family: inherit;        /* use the same font as the site */
-  font-size: 1rem;             /* same size as body text */
+  border-collapse: collapse;
+  width: 100%;      /* full width */
+  table-layout: auto;
+  font-family: inherit;
+  font-size: 1rem;
   margin-top: 0.5em;
 }
-
 .references-table td {
-  padding: 0.25rem 1rem 0.25rem 0; /* compact spacing with some column gap */
-  border: none;                    /* no cell borders */
-  text-align: left;                /* align text left */
+  padding: 0.25rem 1rem 0.25rem 0;
+  border: none;
+  text-align: left;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
+
+.postcards-header img,
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+body {
+  overflow-x: hidden;
+}
+
 
