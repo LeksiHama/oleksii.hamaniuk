@@ -17,6 +17,9 @@ navbar:
       href: index.html#policy-research
     - text: "In Media"
       href: index.html#in-media
+includes:
+  in_header: _includes/head.html
+
 
       
 output: distill::distill_article
