@@ -1,38 +1,98 @@
-/* --- Sticky Navbar --- */ .distill-site-nav { 
-  position: fixed; 
-  top: 0; 
-  width: 100%; 
-  z-index: 1000; 
-  background-color: rgba(10, 45, 90, 0.85); /* semi-transparent */ 
-  border-bottom: 1px solid #ddd; backdrop-filter: blur(5px); /* optional: nice blur effect */ }
+/* --- Sticky Navbar --- */
+.distill-site-nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: rgba(10, 45, 90, 0.85); /* semi-transparent */
+  border-bottom: 1px solid #ddd;
+  backdrop-filter: blur(5px); /* optional: nice blur effect */
+}
 
-/* Push the main content down so it doesn’t hide under the navbar */ 
-.distill-site-body { 
-  padding-top: 70px; 
-  /* instead of .distill-site-header */ } 
-  /* Target the header container */ 
-  .postcards-header { 
-    height: 400px;     /* desired height */ 
-    overflow: hidden; /* crop anything overflowing */ 
-    display: flex; /* center the image */ 
-    justify-content: center; 
-    align-items: center; } 
-    
-/* Target the image inside the header */ 
-.postcards-header img { 
-  width: auto; /* keep aspect ratio */ 
-  max-height: 100%; /* fill container height */ 
-  display: block; } 
-  
-.references-table { 
-  border-collapse: collapse; /* remove borders */ 
-  width: auto; /* shrink to fit content */ 
-  font-family: inherit; /* use the same font as the site */ 
-  font-size: 1rem; /* same size as body text */ 
-  margin-top: 0.5em; } 
-  
-.references-table td { 
-  padding: 0.25rem 1rem 0.25rem 0; /* compact spacing with some column gap */ 
-  border: none; /* no cell borders */ 
-  text-align: left; /* align text left */ } 
-  
+/* --- Main Body Layout --- */
+.distill-site-body {
+  padding: 70px 1rem 1rem 1rem; /* top padding for navbar, some space on sides */
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden; /* prevent horizontal scrolling */
+  box-sizing: border-box;
+}
+
+/* --- Header Image --- */
+.postcards-header {
+  height: 400px;            /* desired height */
+  overflow: hidden;         /* crop anything overflowing */
+  display: flex;            /* center the image */
+  justify-content: center;
+  align-items: center;
+}
+
+.postcards-header img {
+  width: auto;              /* keep aspect ratio */
+  max-height: 100%;         /* fill container height */
+  max-width: 100%;          /* prevent overflow */
+  display: block;
+}
+
+/* --- References Table --- */
+.references-table {
+  border-collapse: collapse;   /* remove borders */
+  width: 100%;                 /* responsive width */
+  table-layout: auto;
+  font-family: inherit;        /* use the same font as the site */
+  font-size: 1rem;             /* same size as body text */
+  margin-top: 0.5em;
+}
+
+.references-table td {
+  padding: 0.25rem 1rem 0.25rem 0; /* compact spacing with column gap */
+  border: none;
+  text-align: left;
+  word-wrap: break-word;           /* wrap long text */
+  overflow-wrap: break-word;
+}
+
+/* --- Make Images Responsive --- */
+.postcards-header img,
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* --- Responsive Adjustments --- */
+@media (max-width: 768px) {
+  /* Make navbar text smaller and easier to fit */
+  .distill-site-nav {
+    width: 100%;
+    font-size: 0.9rem;
+    padding: 0.5rem;
+  }
+
+  /* Scale header image height on mobile */
+  .postcards-header {
+    height: 250px;
+  }
+
+  /* Ensure table doesn’t overflow */
+  .references-table td {
+    display: block;
+    width: 100%;
+    padding: 0.25rem 0;
+  }
+
+  .references-table tr {
+    display: block;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #eee; /* optional visual separation */
+  }
+
+  /* Slightly increase body side padding */
+  .distill-site-body {
+    padding: 60px 0.75rem 1rem 0.75rem;
+  }
+}
+
+/* --- General Fix --- */
+body {
+  overflow-x: hidden;
+}
