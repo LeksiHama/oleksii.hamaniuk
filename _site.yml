@@ -4,7 +4,7 @@ description: |
  Oleksii Hamaniuk 
 output_dir: "docs" 
 
-base_url: https://oleksiihamaniuk.org/ 
+base_url: https://oleksiihamaniuk.org 
 
 navbar: 
  right: 
