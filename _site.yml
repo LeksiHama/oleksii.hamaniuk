@@ -2,6 +2,8 @@ name: "."
 title: "Oleksii Hamaniuk" 
 description: | 
  Oleksii Hamaniuk 
+html_head: |
+  <link rel="canonical" href="https://oleksiihamaniuk.org/path-to-post-or-page/"/>
 output_dir: "docs" 
 
 base_url: https://oleksiihamaniuk.org 
