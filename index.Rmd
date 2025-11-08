@@ -41,7 +41,7 @@ You can contact me via email **<u>ohamaniuk@uni-bonn.de</u>**.
 
 ## Job Market Paper 
 
-**[Why Decentralised Governance Works: Evidence from Heating Consumption in Ukrainian Buildings](https://drive.google.com/file/d/1P4-sm8joH2isztJYSd_re03QfZD9UOQj/view?usp=sharing)**
+**[Why Decentralised Governance Works: Evidence from Heating Consumption in Ukraine](https://drive.google.com/file/d/1P4-sm8joH2isztJYSd_re03QfZD9UOQj/view?usp=sharing)**
 
 <details>
   <summary><em>Abstract</em></summary>
@@ -69,7 +69,7 @@ You can contact me via email **<u>ohamaniuk@uni-bonn.de</u>**.
   <tr>
     <td><strong>Prof. Dr. Clara Brandi</strong></td>
     <td>University of Bonn</td>
-    <td>Clara.Brandi@idos-research.de</td>
+    <td>cbrandi@uni-bonn.de</td>
   </tr>
 </table>
 
