@@ -85,18 +85,7 @@ You can contact me via email **<u>ohamaniuk@uni-bonn.de</u>**.
   This paper analyses the local economic and fiscal returns of decentralisation. We analyse the staggered decentralisation of powers and tax revenues to municipal governments in Ukraine between 2015 and 2020. Most importantly, decentralised authorities retain 60% of the personal income tax collected within their jurisdiction. We collect expert‐survey data on regional government support as a plausibly exogenous determinant of selection into decentralisation and use difference‐in‐differences and event‐study estimations. Our results show that decentralisation stimulates economic growth and generates additional tax revenues for local governments. Moreover, the elasticity of tax revenues rises significantly after decentralisation, suggesting higher levels of tax compliance when taxes are used locally. These findings underscore the importance of embedding incentives within systems of fiscal federalism. 
 </details>
 
-<!-- --- -->
-
-<!-- **Childhood trauma and preferences for democracy: historical evidence from Ukraine.** | with Thomas Dohmen   -->
-
-<!-- <details> -->
-<!--   <summary><em>Abstract</em></summary> -->
-<!--   We examine how childhood trauma shapes later-life  -->
-<!--   preferences for democracy. Using historical data from ..., we find that ... -->
-<!-- </details> -->
-
-
-
+<br>
 **When Mediation Matters: Cooperation in Experimental Militarisation Games** | with Ryan Swan  
 
 <details>
