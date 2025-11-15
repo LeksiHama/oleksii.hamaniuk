@@ -25,7 +25,7 @@ css: styles.css
  
 ## About 
 
-Welcome! I am a 6th year PhD candidate in Economics at the University of Bonn. I am on the academic job market 2025–2026.
+Welcome! I am a [6th year PhD candidate](https://www.econ.uni-bonn.de/en/department/doctoral-students/oleksii-hamaniuk) in Economics at the University of Bonn. I am on the academic job market 2025–2026.
 
 My research interests are in applied microeconomics, public economics, urban economics, and energy economics.
 
@@ -95,14 +95,14 @@ You can contact me via email **<u>ohamaniuk@uni-bonn.de</u>**.
 <!--   preferences for democracy. Using historical data from ..., we find that ... -->
 <!-- </details> -->
 
-<!--
 
-#**When Mediation Matters: Cooperation in Experimental Militarisation Games** | with Ryan Swan  
 
-#<details>
+**When Mediation Matters: Cooperation in Experimental Militarisation Games** | with Ryan Swan  
+
+<details>
   <summary><em>Abstract</em></summary>
-#This paper studies how mediation affects people’s decisions towards cooperation in militarisation games. Specifically, we examine how the presence and nature of a mediator influence the likelihood of cooperative outcomes. To do this, we run the experiment with three different settings. We compare the theoretical predictions derived from game-theoretic equilibrium strategies with the actual behaviour observed in our experiments. Our findings reveal that the presence of a mediator—even one who does not alter the equilibrium structure of the game—significantly increases the rate of cooperation among participants.  At the same time, we do not find strong evidence that participants have a clear preference between an uninformed mediator and one who is informed about their private types. 
-#</details> -->
+This paper studies experimentally how mediation affects people’s decisions towards cooperation in militarisation games. Specifically, we examine how the presence and nature of a mediator influence the likelihood of cooperative outcomes. We compare the theoretical predictions derived from game-theoretic equilibrium strategies with the actual behaviour observed in our experiments. Our findings reveal that the presence of a mediator that does not affect the equilibrium structure of the game still significantly increases the rate of cooperation among participants by 34 percentage points. At the same time, people who value privacy are less likely to prefer being mediated in the setting where the mediator observes their type and are more likely to prefer the mediator who does not have any information about their type.
+</details> 
 
 ---
 
