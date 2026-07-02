@@ -25,7 +25,7 @@ css: styles.css
  
 ## About 
 
-Welcome! I am a [6th year PhD candidate](https://www.econ.uni-bonn.de/en/department/doctoral-students/oleksii-hamaniuk) in Economics at the University of Bonn. I am on the academic job market 2025–2026.
+Welcome! I am a [6th year PhD candidate](https://www.econ.uni-bonn.de/en/department/doctoral-students/oleksii-hamaniuk) in Economics at the University of Bonn. I am going to start working as a Non-Resident Research Fellow with the Kyiv School of Economics Institute.
 
 My research interests are in applied microeconomics, public economics, urban economics, and energy economics.
 
