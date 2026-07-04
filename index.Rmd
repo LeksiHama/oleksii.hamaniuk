@@ -25,7 +25,7 @@ css: styles.css
  
 ## About 
 
-Welcome! I am a [6th year PhD candidate](https://www.econ.uni-bonn.de/en/department/doctoral-students/oleksii-hamaniuk) in Economics at the University of Bonn. I am going to start working as a Non-Resident Research Fellow with the Kyiv School of Economics Institute.
+Welcome! I am a [6th year PhD candidate](https://www.econ.uni-bonn.de/en/department/doctoral-students/oleksii-hamaniuk) in Economics at the University of Bonn. I am going to start working with the Kyiv School of Economics Institute in the field of policy research.
 
 My research interests are in applied microeconomics, public economics, urban economics, and energy economics.
 
@@ -39,7 +39,7 @@ You can contact me via email **<u>ohamaniuk@uni-bonn.de</u>**.
 
 ---
 
-## Job Market Paper 
+## Working Papers 
 
 **[Why Decentralised Governance Works: Evidence from Heating Consumption in Ukraine](https://drive.google.com/file/d/1P4-sm8joH2isztJYSd_re03QfZD9UOQj/view?usp=sharing)**
 
@@ -50,28 +50,28 @@ You can contact me via email **<u>ohamaniuk@uni-bonn.de</u>**.
 
 ---
 
-## References
+<!-- ## References -->
 
 
 
 
-<table class="references-table">
-  <tr>
-    <td><strong>Prof. Dr. Thomas Dohmen</strong></td>
-    <td>University of Bonn</td>
-    <td>tdohmen@uni-bonn.de</td>
-  </tr>
-  <tr>
-    <td><strong>Prof. Dr. Sebastian Kube</strong></td>
-    <td>University of Bonn</td>
-    <td>kube@uni-bonn.de</td>
-  </tr>
-  <tr>
-    <td><strong>Prof. Dr. Clara Brandi</strong></td>
-    <td>University of Bonn</td>
-    <td>cbrandi@uni-bonn.de</td>
-  </tr>
-</table>
+<!-- <table class="references-table"> -->
+  <!-- <tr> -->
+    <!-- <td><strong>Prof. Dr. Thomas Dohmen</strong></td> -->
+<!--     <td>University of Bonn</td> -->
+<!--     <td>tdohmen@uni-bonn.de</td> -->
+<!--   </tr> -->
+<!--   <tr> -->
+<!--     <td><strong>Prof. Dr. Sebastian Kube</strong></td> -->
+<!--     <td>University of Bonn</td> -->
+<!--     <td>kube@uni-bonn.de</td> -->
+<!--   </tr> -->
+<!--   <tr> -->
+<!--     <td><strong>Prof. Dr. Clara Brandi</strong></td> -->
+<!--     <td>University of Bonn</td> -->
+<!--     <td>cbrandi@uni-bonn.de</td> -->
+<!--   </tr> -->
+<!-- </table> -->
 
 
 
