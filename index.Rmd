@@ -25,7 +25,7 @@ css: styles.css
  
 ## About 
 
-Welcome! I am a [6th year PhD candidate](https://www.econ.uni-bonn.de/en/department/doctoral-students/oleksii-hamaniuk) in Economics at the University of Bonn. I am going to start working with the Kyiv School of Economics Institute in the field of policy research.
+Welcome! I am a [6th year PhD candidate](https://www.econ.uni-bonn.de/en/department/doctoral-students/oleksii-hamaniuk) in Economics at the University of Bonn. 
 
 My research interests are in applied microeconomics, public economics, urban economics, and energy economics.
 
