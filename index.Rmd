@@ -86,6 +86,15 @@ You can contact me via email **<u>ohamaniuk@uni-bonn.de</u>**.
 </details>
 
 <br>
+
+ **Does Greening lead to Gentrification? Evidence from Restaurant Sector in Berlin** | with Francisco Amaral, Ali Ulaş Güneş | Draft available upon request  
+
+<details>
+  <summary><em>Abstract</em></summary>
+  This paper investigates the relationship between policy-driven greening interventions and neighbourhood gentrification in Berlin (2007–2024) by examining an effect on the commercial amenity landscape. Combining environmental, real estate, and restaurant data, we employ a staggered difference-in-differences framework to analyse how rental prices and localised restaurant compositions respond to the establishment or renovation of public green zones. Our findings reveal a peculiar trajectory of urban change. The direct impact of greening on the housing market is modest and delayed, yielding an aggregated dynamic rental premium of 0.56 EUR/sqm that takes more than 10 years to materialise. Conversely, greening triggers an immediate and robust commercial restructuring within the local restaurant sector. The share of foreign cuisine among new restaurant openings drops by 13.6 percentage points, driven by a contraction in Asian culinary establishments and an expansion of German restaurants. We conclude that immediate transformations in consumption amenities serve as early behavioural signals of green gentrification, predating formal real estate market adjustments.
+</details>
+
+<br>
 **When Mediation Matters: Cooperation in Experimental Militarisation Games** | with Ryan Swan  
 
 <details>
