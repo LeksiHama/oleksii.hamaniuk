@@ -1,5 +1,5 @@
 ---
-title: "Oleksii Hamaniuk"
+title: "Dr. Oleksii Hamaniuk"
 image: "website_photo.jpg"
 links:
   - label: CV
@@ -25,11 +25,11 @@ css: styles.css
  
 ## About 
 
-Welcome! I am a [6th year PhD candidate](https://www.econ.uni-bonn.de/en/department/doctoral-students/oleksii-hamaniuk) in Economics at the University of Bonn. 
+Welcome! I am a Policy & Economic Consultant working with the Kyiv School of Economics Institute and also a Visiting Fellow at ZOiS (Centre for East European and International Studies). I hold a PhD in Economics from the University of Bonn (2026). 
 
 My research interests are in applied microeconomics, public economics, urban economics, and energy economics.
 
-You can contact me via email **<u>ohamaniuk@uni-bonn.de</u>**.
+You can contact me via email **<u>olexiygamaniuk@gmail.com</u>**.
 
 ---
 
@@ -73,9 +73,6 @@ You can contact me via email **<u>ohamaniuk@uni-bonn.de</u>**.
 <!--   </tr> -->
 <!-- </table> -->
 
-
-
----
 
 ## Work in Progress 
  **Go local - get tax compliance and local growth?** | with Benedikt Herrmann, Felix Rösel | Draft available upon request  
